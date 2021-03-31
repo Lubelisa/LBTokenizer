@@ -32,10 +32,10 @@ nalguns,em alguns
 nalguma,em alguma
 àquele,a aquele
 àquela,a aquela
+àquilo,a aquilo
 desses,de esses
 destes,de estes
 dentre,de entre
-destes,de estes
 dessas,de essas
 destas,de estas
 dalém,de além
@@ -99,7 +99,6 @@ dos,de os
 das,de as
 dum,de um
 num,em um
-mos,me os
 tos,te os
 tas,te as
 lho,lhe o
@@ -108,16 +107,13 @@ pra,para
 aos,a os
 às,a as
 pl',por
+la,a
+lo,o
 no,em o
 na,em a
 do,de o
 da,de a
-mo,me o
-ma,me a
 to,te o
 ta,te a
 ao,a o
-às,a as
 à,a a
-d',de
-n',em

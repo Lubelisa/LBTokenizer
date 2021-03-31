@@ -1,16 +1,16 @@
-mo,me o
+lhos,lhe os
+lhas,lhe as
 mos,me os
-ma,me a
 mas,me as
-to,te o
 tos,te os
-ta,te a
 tas,te as
 lho,lhe o
-lhos,lhe os
 lha,lhe a
-lhas,lhe as
-la,ela
-lo,ele
-a,ela
-o,ele
+las,as
+los,os
+mo,me o
+ma,me a
+to,te o
+ta,te a
+la,a
+lo,o
