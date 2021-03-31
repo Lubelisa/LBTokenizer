@@ -56,7 +56,7 @@ for pron in list_pc:
 name = ""
 name = str(input('Digite o nome do arquivo .txt de entrada (ex: input.txt): '))
 print("Arquivo de entrada dado -> ", name)
-frases = open(name, 'r', encoding='ISO-8859-1').readlines()
+frases = open(name, 'r', encoding='utf-8').readlines()
 
 for i in range(0, len(frases)):
 	frases[i] = frases[i].replace('\n', '')
